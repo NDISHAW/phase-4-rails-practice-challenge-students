@@ -1,0 +1,2 @@
+class AddColumnAgeToStudent < ApplicationRecord
+end
